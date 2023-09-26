@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695616993 source:d:\proyectos_c++\comptación paralela y distribuida\multiplicacionmatricicialcomun\main.cpp
+	<iostream>
+	<chrono>
+	<random>
+

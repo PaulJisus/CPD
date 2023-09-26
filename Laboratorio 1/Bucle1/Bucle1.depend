@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695620322 source:d:\proyectos_c++\comptación paralela y distribuida\bucle1\main.cpp
+	<iostream>
+	<chrono>
+	<random>
+
